@@ -15,6 +15,8 @@
   - [x] [Longest Substring Without Repeating Characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
   - [x] [Find All Anagrams in a String](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
 - [ ] Substring
+  - [x] [Subarray Sum Equals K](https://leetcode.cn/problems/subarray-sum-equals-k/)
+  - [x] [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/)
 - [ ] Array
 - [ ] Matrix
 - [ ] Linked List
